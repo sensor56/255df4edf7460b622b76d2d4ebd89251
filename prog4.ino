@@ -1,5 +1,8 @@
+// Supports PDF d'Ateliers Arduino par www.mon-club-elec.fr
+// http://www.mon-club-elec.fr/pmwiki_mon_club_elec/pmwiki.php?n=MAIN.ATELIERS
+// par X. HINAULT - tous droits réservés - 2012 - GPLv3
 
-20. Comptage de la fréquence de rotation d'un axe à l'aide d'une interruption externe
+// code : 20. Comptage de la fréquence de rotation d'un axe à l'aide d'une interruption externe
 
 //--- entete déclarative = déclarer ici variables et constantes globales 
 
