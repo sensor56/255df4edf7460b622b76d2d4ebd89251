@@ -33,7 +33,7 @@ void loop() {
 } // fin de la fonction loop()
 
 // fonction appelée lors interruption Timer2
-void InterruptTimer2() { // debut de la fonction d'interruption Timer2
+void interruptTimer2() { // debut de la fonction d'interruption Timer2
 
   static boolean etatLED=HIGH; // variable statique initialisée à HIGH
   
